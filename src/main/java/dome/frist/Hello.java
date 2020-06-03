@@ -7,7 +7,11 @@ package dome.frist;
 public class Hello {
 	
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("hello word! dome2");
+=======
+		System.out.println("hello word! dome");
+>>>>>>> branch 'master' of https://github.com/ismogv/dome.git
 	}
 
 }
